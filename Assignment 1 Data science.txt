@@ -1,0 +1,49 @@
+#Question-1
+#Abrar ul Hassan 
+print("Twinkle,Twinkle,little,star,")
+print("\tHow i wonder waht are you!")
+print("\t\t up above the world so high,")
+print("\t\t Like a diamond in the sky.")
+print("Twinkle,Twinkle,little,star,")
+print("\tHow i wonder waht are you!")
+==============================================
+==============================================
+#Question-2
+#Abrar ul Hassan 
+import sys
+print("Version of Python")
+print(sys.version)
+print("Version information")
+print(sys.version_info)
+==============================================
+==============================================
+#Question-3
+#Abrar ul Hassan 
+import time
+currenttime=time.asctime(time.localtime(time.time()))
+print("Current Time : ",str(currenttime))
+===============================================
+==============================================
+#Question-4
+#Abrar ul Hassan 
+Radius=float(input("PLease Enter the Radius of Circle : "))
+pi=3.141
+Area=pi*Radius
+print("Area of Circle is : ",str(Area))
+==============================================
+==============================================
+#Question 5
+#Abrar ul Hassan 
+first_Name=input("PLease Enter your First Name : ")
+last_Name=input("Please Enter you last Name : ")
+print(last_Name+" "+first_Name)
+=================================================
+=================================================
+#Question-6 
+#Abrar ul Hassan
+num1=int(input("Please Enter the number 1 : "))
+num2=int(input("PLease Entet the number 2 : ")) 
+Addition=num1+num2
+print("Addition of two Number : ",str(Addition))
+======================================================
+=====================================================
